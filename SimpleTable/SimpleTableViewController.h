@@ -12,7 +12,7 @@
 
 
 #import <UIKit/UIKit.h>
-
+//yip changes made
 @interface SimpleTableViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
 
 @end
